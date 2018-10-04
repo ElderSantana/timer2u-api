@@ -1,6 +1,7 @@
 # timer2u-api
 A simple example of timer api  using Laravel 5.7
 
+
 ## Install composer
 Install Composer if is not already on your machine.
 https://getcomposer.org/download/
@@ -20,3 +21,6 @@ in case you will create your database, you can run `php artisan migrate` after `
 run `php artisan serve`
 
 The API will be running on localhost:8000.
+
+## TIME SPENT
+I spent about 6 hours to create the app and api.
